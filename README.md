@@ -4,4 +4,4 @@ It sensitizes players to the various forms of poverty by allowing them to walk t
 
 The game engine is Unity3D. 
 
-I can be played on https://gamejolt.com/games/miseria-caritas/416162
+It can be played on https://gamejolt.com/games/miseria-caritas/416162
