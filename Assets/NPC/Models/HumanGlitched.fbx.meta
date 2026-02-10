@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: ab176d9bea8b6d546967fa0c96229346
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Armature.002
+    100004: chest
+    100006: chest 1
+    100008: Fingers1.L
+    100010: Fingers1.L 1
+    100012: Fingers1.R
+    100014: Fingers1.R 1
+    100016: Fingers2.L
+    100018: Fingers2.L 1
+    100020: Fingers2.L_end
+    100022: Fingers2.L_end 1
+    100024: Fingers2.R
+    100026: Fingers2.R 1
+    100028: Fingers2.R_end
+    100030: Fingers2.R_end 1
+    100032: Foot.L
+    100034: Foot.L 1
+    100036: Foot.R
+    100038: Foot.R 1
+    100040: Hand.L
+    100042: Hand.L 1
+    100044: Hand.R
+    100046: Hand.R 1
+    100048: head
+    100050: head 1
+    100052: head_end
+    100054: head_end 1
+    100056: Hips
+    100058: Hips 1
+    100060: Human.002
+    100062: Human.003
+    100064: Human.004
+    100066: Human.005
+    100068: //RootNode
+    100070: LegIK.L
+    100072: LegIK.L 1
+    100074: LegIK.L_end
+    100076: LegIK.L_end 1
+    100078: LegIK.R
+    100080: LegIK.R 1
+    100082: LegIK.R_end
+    100084: LegIK.R_end 1
+    100086: LowerArm.L
+    100088: LowerArm.L 1
+    100090: LowerArm.R
+    100092: LowerArm.R 1
+    100094: LowerLeg.L
+    100096: LowerLeg.L 1
+    100098: LowerLeg.R
+    100100: LowerLeg.R 1
+    100102: neck
+    100104: neck 1
+    100106: PoleTarget.L
+    100108: PoleTarget.L 1
+    100110: PoleTarget.L_end
+    100112: PoleTarget.L_end 1
+    100114: PoleTarget.R
+    100116: PoleTarget.R 1
+    100118: PoleTarget.R_end
+    100120: PoleTarget.R_end 1
+    100122: Shoulder.L
+    100124: Shoulder.L 1
+    100126: Shoulder.R
+    100128: Shoulder.R 1
+    100130: spine
+    100132: spine 1
+    100134: Thumb1.L
+    100136: Thumb1.L 1
+    100138: Thumb1.R
+    100140: Thumb1.R 1
+    100142: Thumb2.L
+    100144: Thumb2.L 1
+    100146: Thumb2.L_end
+    100148: Thumb2.L_end 1
+    100150: Thumb2.R
+    100152: Thumb2.R 1
+    100154: Thumb2.R_end
+    100156: Thumb2.R_end 1
+    100158: Toes.L
+    100160: Toes.L 1
+    100162: Toes.L_end
+    100164: Toes.L_end 1
+    100166: Toes.R
+    100168: Toes.R 1
+    100170: Toes.R_end
+    100172: Toes.R_end 1
+    100174: UpperArm.L
+    100176: UpperArm.L 1
+    100178: UpperArm.R
+    100180: UpperArm.R 1
+    100182: UpperLeg.L
+    100184: UpperLeg.L 1
+    100186: UpperLeg.R
+    100188: UpperLeg.R 1
+    100190: Armature.003
+    100192: chest 2
+    100194: Fingers1.L 2
+    100196: Fingers1.R 2
+    100198: Fingers2.L 2
+    100200: Fingers2.L_end 2
+    100202: Fingers2.R 2
+    100204: Fingers2.R_end 2
+    100206: Foot.L 2
+    100208: Foot.R 2
+    100210: Hand.L 2
+    100212: Hand.R 2
+    100214: head 2
+    100216: head_end 2
+    100218: Hips 2
+    100220: Human.006
+    100222: LegIK.L 2
+    100224: LegIK.L_end 2
+    100226: LegIK.R 2
+    100228: LegIK.R_end 2
+    100230: LowerArm.L 2
+    100232: LowerArm.R 2
+    100234: LowerLeg.L 2
+    100236: LowerLeg.R 2
+    100238: neck 2
+    100240: PoleTarget.L 2
+    100242: PoleTarget.L_end 2
+    100244: PoleTarget.R 2
+    100246: PoleTarget.R_end 2
+    100248: Shoulder.L 2
+    100250: Shoulder.R 2
+    100252: spine 2
+    100254: Thumb1.L 2
+    100256: Thumb1.R 2
+    100258: Thumb2.L 2
+    100260: Thumb2.L_end 2
+    100262: Thumb2.R 2
+    100264: Thumb2.R_end 2
+    100266: Toes.L 2
+    100268: Toes.L_end 2
+    100270: Toes.R 2
+    100272: Toes.R_end 2
+    100274: UpperArm.L 2
+    100276: UpperArm.R 2
+    100278: UpperLeg.L 2
+    100280: UpperLeg.R 2
+    400000: Armature.001
+    400002: Armature.002
+    400004: chest
+    400006: chest 1
+    400008: Fingers1.L
+    400010: Fingers1.L 1
+    400012: Fingers1.R
+    400014: Fingers1.R 1
+    400016: Fingers2.L
+    400018: Fingers2.L 1
+    400020: Fingers2.L_end
+    400022: Fingers2.L_end 1
+    400024: Fingers2.R
+    400026: Fingers2.R 1
+    400028: Fingers2.R_end
+    400030: Fingers2.R_end 1
+    400032: Foot.L
+    400034: Foot.L 1
+    400036: Foot.R
+    400038: Foot.R 1
+    400040: Hand.L
+    400042: Hand.L 1
+    400044: Hand.R
+    400046: Hand.R 1
+    400048: head
+    400050: head 1
+    400052: head_end
+    400054: head_end 1
+    400056: Hips
+    400058: Hips 1
+    400060: Human.002
+    400062: Human.003
+    400064: Human.004
+    400066: Human.005
+    400068: //RootNode
+    400070: LegIK.L
+    400072: LegIK.L 1
+    400074: LegIK.L_end
+    400076: LegIK.L_end 1
+    400078: LegIK.R
+    400080: LegIK.R 1
+    400082: LegIK.R_end
+    400084: LegIK.R_end 1
+    400086: LowerArm.L
+    400088: LowerArm.L 1
+    400090: LowerArm.R
+    400092: LowerArm.R 1
+    400094: LowerLeg.L
+    400096: LowerLeg.L 1
+    400098: LowerLeg.R
+    400100: LowerLeg.R 1
+    400102: neck
+    400104: neck 1
+    400106: PoleTarget.L
+    400108: PoleTarget.L 1
+    400110: PoleTarget.L_end
+    400112: PoleTarget.L_end 1
+    400114: PoleTarget.R
+    400116: PoleTarget.R 1
+    400118: PoleTarget.R_end
+    400120: PoleTarget.R_end 1
+    400122: Shoulder.L
+    400124: Shoulder.L 1
+    400126: Shoulder.R
+    400128: Shoulder.R 1
+    400130: spine
+    400132: spine 1
+    400134: Thumb1.L
+    400136: Thumb1.L 1
+    400138: Thumb1.R
+    400140: Thumb1.R 1
+    400142: Thumb2.L
+    400144: Thumb2.L 1
+    400146: Thumb2.L_end
+    400148: Thumb2.L_end 1
+    400150: Thumb2.R
+    400152: Thumb2.R 1
+    400154: Thumb2.R_end
+    400156: Thumb2.R_end 1
+    400158: Toes.L
+    400160: Toes.L 1
+    400162: Toes.L_end
+    400164: Toes.L_end 1
+    400166: Toes.R
+    400168: Toes.R 1
+    400170: Toes.R_end
+    400172: Toes.R_end 1
+    400174: UpperArm.L
+    400176: UpperArm.L 1
+    400178: UpperArm.R
+    400180: UpperArm.R 1
+    400182: UpperLeg.L
+    400184: UpperLeg.L 1
+    400186: UpperLeg.R
+    400188: UpperLeg.R 1
+    400190: Armature.003
+    400192: chest 2
+    400194: Fingers1.L 2
+    400196: Fingers1.R 2
+    400198: Fingers2.L 2
+    400200: Fingers2.L_end 2
+    400202: Fingers2.R 2
+    400204: Fingers2.R_end 2
+    400206: Foot.L 2
+    400208: Foot.R 2
+    400210: Hand.L 2
+    400212: Hand.R 2
+    400214: head 2
+    400216: head_end 2
+    400218: Hips 2
+    400220: Human.006
+    400222: LegIK.L 2
+    400224: LegIK.L_end 2
+    400226: LegIK.R 2
+    400228: LegIK.R_end 2
+    400230: LowerArm.L 2
+    400232: LowerArm.R 2
+    400234: LowerLeg.L 2
+    400236: LowerLeg.R 2
+    400238: neck 2
+    400240: PoleTarget.L 2
+    400242: PoleTarget.L_end 2
+    400244: PoleTarget.R 2
+    400246: PoleTarget.R_end 2
+    400248: Shoulder.L 2
+    400250: Shoulder.R 2
+    400252: spine 2
+    400254: Thumb1.L 2
+    400256: Thumb1.R 2
+    400258: Thumb2.L 2
+    400260: Thumb2.L_end 2
+    400262: Thumb2.R 2
+    400264: Thumb2.R_end 2
+    400266: Toes.L 2
+    400268: Toes.L_end 2
+    400270: Toes.R 2
+    400272: Toes.R_end 2
+    400274: UpperArm.L 2
+    400276: UpperArm.R 2
+    400278: UpperLeg.L 2
+    400280: UpperLeg.R 2
+    2100000: Skin.001
+    2100002: Skin.000
+    4300000: Human.005
+    4300002: Human.004
+    4300004: Human.003
+    4300006: Human.002
+    4300008: Human.006
+    7400000: Armature.002|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+    7400002: Armature.002|Armature|Armature|NPCAction.001|Armature|NPCAction.000
+    7400004: Armature.002|Armature|Armature|NPCAction.001|Armature|NPCAction.001
+    7400006: Armature.002|Armature|Armature|NPCAction.001|Armature|NPCAction.002
+    7400008: Armature.002|Armature|Armature|NPCAction.001|Armature|NPCAction.003
+    7400010: Armature.002|Armature|Armature|NPCAction.001|Armature|NPCAction.004
+    7400012: Armature.002|Armature|Armature|NPCAction.003|Armature|NPCAction.003
+    7400014: Armature.002|Armature|Armature|NPCAction|Armature|NPCAction
+    7400016: Armature.002|Armature|Armature|NPCAction|Armature|NPCAction.001
+    7400018: Armature.001|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+    7400020: Armature.001|Armature|Armature|NPCAction.001|Armature|NPCAction.000
+    7400022: Armature.001|Armature|Armature|NPCAction.001|Armature|NPCAction.001
+    7400024: Armature.001|Armature|Armature|NPCAction.001|Armature|NPCAction.002
+    7400026: Armature.001|Armature|Armature|NPCAction.001|Armature|NPCAction.003
+    7400028: Armature.001|Armature|Armature|NPCAction.001|Armature|NPCAction.004
+    7400030: Armature.001|Armature|Armature|NPCAction.003|Armature|NPCAction.003
+    7400032: Armature.001|Armature|Armature|NPCAction|Armature|NPCAction
+    7400034: Armature.001|Armature|Armature|NPCAction|Armature|NPCAction.001
+    7400036: Armature.003|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+    7400038: Armature.003|Armature|Armature|NPCAction.001|Armature|NPCAction.000
+    7400040: Armature.003|Armature|Armature|NPCAction.001|Armature|NPCAction.001
+    7400042: Armature.003|Armature|Armature|NPCAction.001|Armature|NPCAction.002
+    7400044: Armature.003|Armature|Armature|NPCAction.001|Armature|NPCAction.003
+    7400046: Armature.003|Armature|Armature|NPCAction.001|Armature|NPCAction.004
+    7400048: Armature.003|Armature|Armature|NPCAction.003|Armature|NPCAction.003
+    7400050: Armature.003|Armature|Armature|NPCAction|Armature|NPCAction
+    7400052: Armature.003|Armature|Armature|NPCAction|Armature|NPCAction.001
+    9500000: //RootNode
+    13700000: Human.002
+    13700002: Human.003
+    13700004: Human.004
+    13700006: Human.005
+    13700008: Human.006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

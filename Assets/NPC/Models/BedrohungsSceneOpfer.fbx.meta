@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 376a90b4fb780814a828ccbbf3071803
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature.005
+    100002: //RootNode
+    100004: chest
+    100006: Fingers1.L
+    100008: Fingers1.R
+    100010: Fingers2.L
+    100012: Fingers2.L_end
+    100014: Fingers2.R
+    100016: Fingers2.R_end
+    100018: Foot.L
+    100020: Foot.R
+    100022: Hand.L
+    100024: Hand.R
+    100026: head
+    100028: head_end
+    100030: Hips
+    100032: Human.009
+    100034: Human.010
+    100036: LegIK.L
+    100038: LegIK.L_end
+    100040: LegIK.R
+    100042: LegIK.R_end
+    100044: LowerArm.L
+    100046: LowerArm.R
+    100048: LowerLeg.L
+    100050: LowerLeg.R
+    100052: neck
+    100054: PoleTarget.L
+    100056: PoleTarget.L_end
+    100058: PoleTarget.R
+    100060: PoleTarget.R_end
+    100062: Shoulder.L
+    100064: Shoulder.R
+    100066: spine
+    100068: Thumb1.L
+    100070: Thumb1.R
+    100072: Thumb2.L
+    100074: Thumb2.L_end
+    100076: Thumb2.R
+    100078: Thumb2.R_end
+    100080: Toes.L
+    100082: Toes.L_end
+    100084: Toes.R
+    100086: Toes.R_end
+    100088: UpperArm.L
+    100090: UpperArm.R
+    100092: UpperLeg.L
+    100094: UpperLeg.R
+    400000: Armature.005
+    400002: //RootNode
+    400004: chest
+    400006: Fingers1.L
+    400008: Fingers1.R
+    400010: Fingers2.L
+    400012: Fingers2.L_end
+    400014: Fingers2.R
+    400016: Fingers2.R_end
+    400018: Foot.L
+    400020: Foot.R
+    400022: Hand.L
+    400024: Hand.R
+    400026: head
+    400028: head_end
+    400030: Hips
+    400032: Human.009
+    400034: Human.010
+    400036: LegIK.L
+    400038: LegIK.L_end
+    400040: LegIK.R
+    400042: LegIK.R_end
+    400044: LowerArm.L
+    400046: LowerArm.R
+    400048: LowerLeg.L
+    400050: LowerLeg.R
+    400052: neck
+    400054: PoleTarget.L
+    400056: PoleTarget.L_end
+    400058: PoleTarget.R
+    400060: PoleTarget.R_end
+    400062: Shoulder.L
+    400064: Shoulder.R
+    400066: spine
+    400068: Thumb1.L
+    400070: Thumb1.R
+    400072: Thumb2.L
+    400074: Thumb2.L_end
+    400076: Thumb2.R
+    400078: Thumb2.R_end
+    400080: Toes.L
+    400082: Toes.L_end
+    400084: Toes.R
+    400086: Toes.R_end
+    400088: UpperArm.L
+    400090: UpperArm.R
+    400092: UpperLeg.L
+    400094: UpperLeg.R
+    2100000: Skin.001
+    2100002: Skin.000
+    4300000: Human.010
+    4300002: Human.009
+    7400000: Armature.005|Armature.004Action
+    7400002: Armature.005|Armature.004Action.001
+    7400004: BedrohungOpfer
+    7400006: Armature.005|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+    7400008: Armature.005|Armature|Armature|NPCAction.001|Armature|NPCAction.000
+    7400010: Armature.005|Armature|Armature|NPCAction.001|Armature|NPCAction.001
+    7400012: Armature.005|Armature|Armature|NPCAction.001|Armature|NPCAction.002
+    7400014: Armature.005|Armature|Armature|NPCAction.001|Armature|NPCAction.003
+    7400016: Armature.005|Armature|Armature|NPCAction.003|Armature|NPCAction.003
+    7400018: Armature.005|Armature|Armature|NPCAction|Armature|NPCAction
+    7400020: Armature.005|Armature|Armature|NPCAction|Armature|NPCAction.001
+    9500000: //RootNode
+    13700000: Human.009
+    13700002: Human.010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BedrohungOpfer
+      takeName: Armature.005|Armature.005Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

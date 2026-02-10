@@ -1,0 +1,12 @@
+{
+"companyName": "Impossible Studios",
+"productName": "Miseria",
+"dataUrl": "moblie very low.data.unityweb",
+"wasmCodeUrl": "moblie very low.wasm.code.unityweb",
+"wasmFrameworkUrl": "moblie very low.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
